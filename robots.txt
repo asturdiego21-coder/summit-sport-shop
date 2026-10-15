@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asturdiego21-coder.github.io/summit-sport-shop/sitemap.xml
